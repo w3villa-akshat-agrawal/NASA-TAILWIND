@@ -24,7 +24,7 @@ const Navbar = () => {
             </div>
       </div>
 
-      {/* Center Logo */}
+      {/* Logo */}
       <div className="col-span-2 flex justify-center items-center h-[50.58px]">
         <img className="h-full object-contain" src="logo.svg" alt="Logo" />
       </div>

@@ -7,6 +7,7 @@ import LunarExploration from './LunarExploration'
 import Explore from './Explore'
 import InformationCenter from './InformationCenter'
 import MoreTopic from './MoreTopic'
+import Footer from './Footer'
 
 const Home = () => {
   return (
@@ -36,6 +37,9 @@ const Home = () => {
         <section>
           <MoreTopic/>
         </section>
+        <footer>
+          <Footer/>
+        </footer>
       </main>
     </div>
   )
